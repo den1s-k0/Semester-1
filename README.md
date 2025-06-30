@@ -26,7 +26,7 @@ Laboratory works from my first semestr
 3. Факториал и степень в слагаемых отдельно не считать! 
 4. Сравнить полученный результат со значением, вычисленным через стандартные функции.
 
-![ln](C:\Users\USER\OneDrive\Pictures\Screenshots\Снимок экрана 2025-06-30 141332.png)
+![ln](Laboratornaya 02 Korol Denis/Laboratornaya 02-row.png)
 ## Лабораторная  работа 3
 ## Лабораторная  работа 4
 ## Лабораторная  работа 5
